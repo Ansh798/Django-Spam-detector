@@ -1,0 +1,2 @@
+1.To run this code you need yo install python and django ,Django rest framework on your pc.
+2.Then just type python manage.py runserver on terminal.
